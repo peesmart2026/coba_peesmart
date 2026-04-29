@@ -1,0 +1,401 @@
+pH,R,G,B,Status
+6.25,238,224,252,Normal
+7.06,230,248,228,Normal
+5.7,220,233,245,Normal
+5.79,212,231,211,Normal
+6.94,239,247,211,Normal
+5.86,230,242,221,Normal
+6.72,253,234,236,Normal
+6.72,251,237,225,Normal
+5.97,253,212,246,Normal
+6.72,230,218,248,Normal
+5.53,234,223,218,Normal
+5.53,211,229,237,Normal
+6.38,216,253,217,Normal
+5.57,223,226,245,Normal
+5.86,213,211,215,Normal
+5.92,213,238,227,Normal
+7.05,243,219,245,Normal
+6.7,224,217,223,Normal
+5.89,249,230,225,Normal
+6.99,233,235,234,Normal
+6.06,254,250,238,Normal
+7.1,210,234,216,Normal
+6.35,210,253,217,Normal
+5.51,220,226,217,Normal
+6.96,242,214,251,Normal
+6.22,250,237,216,Normal
+7.2,221,243,242,Normal
+5.63,232,233,246,Normal
+6.96,249,231,236,Normal
+6.62,244,246,223,Normal
+7.2,214,235,223,Normal
+6.49,218,224,224,Normal
+5.72,222,241,248,Normal
+6.45,241,213,239,Normal
+5.78,248,254,224,Normal
+7.01,245,222,241,Normal
+6.7,231,237,211,Normal
+6.75,215,237,237,Normal
+5.94,229,239,220,Normal
+6.15,237,234,248,Normal
+7.31,210,236,222,Normal
+7.22,248,215,217,Normal
+6.57,246,242,251,Normal
+6.18,224,241,241,Normal
+6.62,221,248,211,Normal
+6.92,246,226,211,Normal
+6.51,232,246,241,Normal
+7.32,228,211,253,Normal
+6.4,215,241,213,Normal
+5.66,226,247,233,Normal
+6.44,243,215,231,Normal
+6.57,225,242,218,Normal
+6.14,215,225,238,Normal
+7.22,245,228,235,Normal
+6.52,228,229,241,Normal
+5.69,250,242,249,Normal
+6.27,227,249,210,Normal
+6.85,234,232,240,Normal
+7.25,244,216,225,Normal
+7.13,211,210,221,Normal
+6.62,241,218,250,Normal
+6.2,225,212,229,Normal
+7.27,242,233,220,Normal
+7.37,245,247,249,Normal
+6.71,244,234,244,Normal
+7.45,227,255,227,Normal
+6.47,244,225,250,Normal
+5.85,213,242,223,Normal
+6.15,229,217,216,Normal
+6.94,242,221,231,Normal
+6.03,255,239,247,Normal
+7.46,217,236,236,Normal
+7.09,239,242,237,Normal
+6.84,242,214,228,Normal
+6.64,226,253,237,Normal
+6.44,255,215,244,Normal
+7,246,233,238,Normal
+6.36,240,244,242,Normal
+5.65,230,241,232,Normal
+6.04,212,227,234,Normal
+6.29,212,249,255,Normal
+5.69,241,231,232,Normal
+5.78,236,251,211,Normal
+6.15,249,242,218,Normal
+6.9,248,238,251,Normal
+7.12,244,234,233,Normal
+7.33,216,245,254,Normal
+5.89,217,255,225,Normal
+5.6,232,224,237,Normal
+6.66,241,232,231,Normal
+6.16,231,231,251,Normal
+7.15,252,246,242,Normal
+7.16,253,253,214,Normal
+6.41,215,254,241,Normal
+6.56,244,249,225,Normal
+7.45,251,239,228,Normal
+7.09,228,237,235,Normal
+5.55,232,218,221,Normal
+6.32,210,243,241,Normal
+6.6,234,249,254,Normal
+5.42,195,180,78,Dehidrasi
+5.99,184,141,68,Dehidrasi
+5.63,191,145,55,Dehidrasi
+5.24,201,176,68,Dehidrasi
+5.17,184,166,88,Dehidrasi
+5.47,184,131,55,Dehidrasi
+5.15,227,140,78,Dehidrasi
+5.52,209,156,62,Dehidrasi
+5.07,184,155,73,Dehidrasi
+5.39,189,177,58,Dehidrasi
+5.75,180,175,44,Dehidrasi
+6.03,195,143,55,Dehidrasi
+5.96,228,147,71,Dehidrasi
+6.41,203,131,89,Dehidrasi
+5.86,212,152,90,Dehidrasi
+6.23,191,122,40,Dehidrasi
+6.44,189,162,83,Dehidrasi
+5.41,191,150,85,Dehidrasi
+5.03,230,169,74,Dehidrasi
+5.5,205,127,68,Dehidrasi
+6.27,205,153,90,Dehidrasi
+5.42,183,177,89,Dehidrasi
+5.94,208,175,75,Dehidrasi
+5.63,215,129,76,Dehidrasi
+6.13,214,168,74,Dehidrasi
+5.62,197,168,78,Dehidrasi
+5.87,202,151,76,Dehidrasi
+5.36,192,142,64,Dehidrasi
+5.36,209,136,88,Dehidrasi
+5.76,227,144,61,Dehidrasi
+5.45,198,168,75,Dehidrasi
+5.02,220,138,51,Dehidrasi
+5.53,207,133,70,Dehidrasi
+6.43,198,177,86,Dehidrasi
+5.12,184,154,51,Dehidrasi
+5.49,200,155,62,Dehidrasi
+6.17,218,164,81,Dehidrasi
+6.46,193,150,44,Dehidrasi
+6.11,208,162,50,Dehidrasi
+5.18,191,128,49,Dehidrasi
+6.26,196,180,77,Dehidrasi
+5.13,192,159,81,Dehidrasi
+5.59,206,177,41,Dehidrasi
+5.12,216,157,58,Dehidrasi
+5.87,224,120,61,Dehidrasi
+6.22,186,144,84,Dehidrasi
+6.13,185,179,70,Dehidrasi
+5.72,223,173,78,Dehidrasi
+5.64,205,138,78,Dehidrasi
+5.65,224,132,89,Dehidrasi
+5.7,199,147,47,Dehidrasi
+5.18,220,158,40,Dehidrasi
+6.02,207,176,88,Dehidrasi
+5.12,212,157,45,Dehidrasi
+6.2,224,151,84,Dehidrasi
+5.06,200,135,60,Dehidrasi
+6.49,216,155,74,Dehidrasi
+6.04,197,166,80,Dehidrasi
+5.33,194,150,40,Dehidrasi
+5.94,182,135,62,Dehidrasi
+5.07,191,129,71,Dehidrasi
+5.09,217,131,63,Dehidrasi
+5.93,187,177,67,Dehidrasi
+5.97,187,177,89,Dehidrasi
+5.4,216,160,75,Dehidrasi
+6.48,196,128,72,Dehidrasi
+5.62,192,147,87,Dehidrasi
+5.24,225,154,45,Dehidrasi
+6.42,184,166,64,Dehidrasi
+5.63,209,169,84,Dehidrasi
+5.25,212,173,40,Dehidrasi
+5.72,226,168,50,Dehidrasi
+5.89,204,141,66,Dehidrasi
+5.85,212,153,80,Dehidrasi
+5.62,180,140,87,Dehidrasi
+5.11,207,136,44,Dehidrasi
+6.5,217,122,62,Dehidrasi
+6.15,216,129,49,Dehidrasi
+5.57,200,133,48,Dehidrasi
+5.19,230,164,52,Dehidrasi
+5.31,180,168,79,Dehidrasi
+5.93,207,150,47,Dehidrasi
+5.03,213,173,42,Dehidrasi
+5.78,191,120,83,Dehidrasi
+5.84,209,178,56,Dehidrasi
+5.2,226,142,54,Dehidrasi
+6.18,193,121,50,Dehidrasi
+5.32,217,179,73,Dehidrasi
+5.53,213,137,69,Dehidrasi
+5.83,230,153,77,Dehidrasi
+5.68,194,179,69,Dehidrasi
+5.93,230,136,44,Dehidrasi
+6.19,189,175,56,Dehidrasi
+5.74,199,143,44,Dehidrasi
+6.47,181,132,82,Dehidrasi
+5.87,190,170,86,Dehidrasi
+5.19,195,150,50,Dehidrasi
+5.21,187,123,79,Dehidrasi
+6.04,204,122,71,Dehidrasi
+5.71,208,151,89,Dehidrasi
+7.9,150,98,70,Gangguan Fungsi Ginjal
+7.25,191,121,110,Gangguan Fungsi Ginjal
+7.05,169,80,54,Gangguan Fungsi Ginjal
+7.69,189,125,83,Gangguan Fungsi Ginjal
+7.19,189,124,76,Gangguan Fungsi Ginjal
+7.06,146,135,112,Gangguan Fungsi Ginjal
+7.57,180,105,85,Gangguan Fungsi Ginjal
+8.21,198,131,96,Gangguan Fungsi Ginjal
+7.56,185,93,77,Gangguan Fungsi Ginjal
+7.55,187,81,75,Gangguan Fungsi Ginjal
+7.06,155,86,52,Gangguan Fungsi Ginjal
+8.34,117,117,64,Gangguan Fungsi Ginjal
+7.16,200,107,88,Gangguan Fungsi Ginjal
+7.48,185,123,74,Gangguan Fungsi Ginjal
+8.34,183,104,117,Gangguan Fungsi Ginjal
+7.53,117,113,57,Gangguan Fungsi Ginjal
+7.88,182,121,90,Gangguan Fungsi Ginjal
+7.51,151,105,113,Gangguan Fungsi Ginjal
+7.86,155,138,119,Gangguan Fungsi Ginjal
+7.91,132,132,71,Gangguan Fungsi Ginjal
+7.34,169,83,111,Gangguan Fungsi Ginjal
+7.43,194,103,104,Gangguan Fungsi Ginjal
+8.26,102,110,89,Gangguan Fungsi Ginjal
+8.05,123,85,115,Gangguan Fungsi Ginjal
+7.86,174,83,55,Gangguan Fungsi Ginjal
+8.46,193,130,111,Gangguan Fungsi Ginjal
+8.39,178,154,57,Gangguan Fungsi Ginjal
+7.71,144,123,54,Gangguan Fungsi Ginjal
+7.28,167,98,69,Gangguan Fungsi Ginjal
+7.36,146,80,63,Gangguan Fungsi Ginjal
+7.43,136,90,52,Gangguan Fungsi Ginjal
+7.08,149,89,54,Gangguan Fungsi Ginjal
+7.1,143,81,62,Gangguan Fungsi Ginjal
+8.03,183,144,112,Gangguan Fungsi Ginjal
+8.02,116,88,64,Gangguan Fungsi Ginjal
+7.71,134,128,118,Gangguan Fungsi Ginjal
+8.25,149,157,58,Gangguan Fungsi Ginjal
+7.31,198,114,50,Gangguan Fungsi Ginjal
+8.11,121,139,113,Gangguan Fungsi Ginjal
+8.17,110,93,109,Gangguan Fungsi Ginjal
+7.25,184,116,54,Gangguan Fungsi Ginjal
+7.35,177,105,111,Gangguan Fungsi Ginjal
+7.54,141,97,89,Gangguan Fungsi Ginjal
+7.68,113,111,100,Gangguan Fungsi Ginjal
+7.94,196,102,112,Gangguan Fungsi Ginjal
+7.75,124,96,115,Gangguan Fungsi Ginjal
+7.82,150,118,100,Gangguan Fungsi Ginjal
+7.65,166,86,100,Gangguan Fungsi Ginjal
+7.5,163,94,78,Gangguan Fungsi Ginjal
+7.74,193,106,85,Gangguan Fungsi Ginjal
+8.5,156,106,104,Gangguan Fungsi Ginjal
+7.21,167,145,59,Gangguan Fungsi Ginjal
+7.74,173,117,62,Gangguan Fungsi Ginjal
+7.17,199,131,105,Gangguan Fungsi Ginjal
+7.75,107,84,78,Gangguan Fungsi Ginjal
+7.34,175,124,51,Gangguan Fungsi Ginjal
+7.02,135,115,75,Gangguan Fungsi Ginjal
+7.38,168,99,60,Gangguan Fungsi Ginjal
+8.44,137,85,72,Gangguan Fungsi Ginjal
+7.69,145,91,62,Gangguan Fungsi Ginjal
+7.21,181,139,92,Gangguan Fungsi Ginjal
+8.4,199,147,54,Gangguan Fungsi Ginjal
+8.38,171,110,58,Gangguan Fungsi Ginjal
+7.64,128,157,89,Gangguan Fungsi Ginjal
+8.26,110,102,50,Gangguan Fungsi Ginjal
+7.17,120,115,103,Gangguan Fungsi Ginjal
+8.26,100,142,103,Gangguan Fungsi Ginjal
+7.78,139,94,70,Gangguan Fungsi Ginjal
+7.57,152,88,101,Gangguan Fungsi Ginjal
+8.18,125,120,84,Gangguan Fungsi Ginjal
+7.6,124,154,87,Gangguan Fungsi Ginjal
+7.52,181,113,66,Gangguan Fungsi Ginjal
+7.88,158,130,103,Gangguan Fungsi Ginjal
+7.26,170,131,119,Gangguan Fungsi Ginjal
+7.05,132,128,78,Gangguan Fungsi Ginjal
+7.87,121,105,77,Gangguan Fungsi Ginjal
+7.32,148,150,98,Gangguan Fungsi Ginjal
+7.84,185,142,110,Gangguan Fungsi Ginjal
+7.28,170,80,62,Gangguan Fungsi Ginjal
+7.6,150,135,111,Gangguan Fungsi Ginjal
+7.31,128,128,94,Gangguan Fungsi Ginjal
+7.57,115,119,68,Gangguan Fungsi Ginjal
+7.1,177,126,115,Gangguan Fungsi Ginjal
+7.8,193,117,100,Gangguan Fungsi Ginjal
+7.23,100,87,78,Gangguan Fungsi Ginjal
+7.11,102,111,59,Gangguan Fungsi Ginjal
+7.41,133,134,81,Gangguan Fungsi Ginjal
+8.07,192,87,114,Gangguan Fungsi Ginjal
+7.83,166,138,103,Gangguan Fungsi Ginjal
+7.51,200,146,100,Gangguan Fungsi Ginjal
+7.98,107,113,84,Gangguan Fungsi Ginjal
+7.36,177,111,95,Gangguan Fungsi Ginjal
+8.25,167,116,103,Gangguan Fungsi Ginjal
+7.31,194,134,97,Gangguan Fungsi Ginjal
+7.13,173,86,82,Gangguan Fungsi Ginjal
+7.31,118,98,85,Gangguan Fungsi Ginjal
+7.96,181,81,50,Gangguan Fungsi Ginjal
+8.23,119,90,51,Gangguan Fungsi Ginjal
+7.54,111,99,54,Gangguan Fungsi Ginjal
+7.52,193,88,102,Gangguan Fungsi Ginjal
+5.3,213,186,99,Diabetes Mellitus
+5.76,248,215,112,Diabetes Mellitus
+6.16,203,178,129,Diabetes Mellitus
+5.99,214,208,98,Diabetes Mellitus
+5.04,193,195,147,Diabetes Mellitus
+6.33,226,180,95,Diabetes Mellitus
+6.35,231,205,130,Diabetes Mellitus
+5.27,206,206,114,Diabetes Mellitus
+5.65,216,200,95,Diabetes Mellitus
+6.04,201,214,146,Diabetes Mellitus
+5.64,199,214,106,Diabetes Mellitus
+5.51,251,215,91,Diabetes Mellitus
+5.08,254,220,142,Diabetes Mellitus
+5.83,215,198,110,Diabetes Mellitus
+6.22,200,205,138,Diabetes Mellitus
+6.03,243,203,144,Diabetes Mellitus
+5.93,211,174,145,Diabetes Mellitus
+5.17,225,216,109,Diabetes Mellitus
+5.08,251,214,132,Diabetes Mellitus
+5.37,215,171,142,Diabetes Mellitus
+5.39,229,186,90,Diabetes Mellitus
+5.64,232,209,131,Diabetes Mellitus
+5.58,224,172,139,Diabetes Mellitus
+6.16,233,220,119,Diabetes Mellitus
+4.81,201,188,126,Diabetes Mellitus
+4.96,238,186,99,Diabetes Mellitus
+5.97,236,181,105,Diabetes Mellitus
+6.28,197,200,110,Diabetes Mellitus
+6.09,214,187,114,Diabetes Mellitus
+5.9,248,195,130,Diabetes Mellitus
+6.4,236,201,99,Diabetes Mellitus
+5.8,206,192,115,Diabetes Mellitus
+5.77,196,183,104,Diabetes Mellitus
+5.99,198,220,137,Diabetes Mellitus
+5,248,192,118,Diabetes Mellitus
+5.61,228,204,107,Diabetes Mellitus
+5.69,206,183,120,Diabetes Mellitus
+5.42,249,214,123,Diabetes Mellitus
+6.3,232,209,115,Diabetes Mellitus
+6.03,228,184,145,Diabetes Mellitus
+5.72,214,182,107,Diabetes Mellitus
+5.68,231,213,91,Diabetes Mellitus
+4.84,231,203,119,Diabetes Mellitus
+4.8,202,182,107,Diabetes Mellitus
+6.4,228,215,141,Diabetes Mellitus
+4.89,251,213,146,Diabetes Mellitus
+5.79,199,199,114,Diabetes Mellitus
+5.37,194,170,119,Diabetes Mellitus
+4.81,234,183,145,Diabetes Mellitus
+5.29,207,206,114,Diabetes Mellitus
+5.27,242,215,104,Diabetes Mellitus
+5.53,238,193,93,Diabetes Mellitus
+5.17,226,206,132,Diabetes Mellitus
+5.8,228,215,113,Diabetes Mellitus
+5.59,214,176,141,Diabetes Mellitus
+4.91,209,198,143,Diabetes Mellitus
+5.83,246,195,130,Diabetes Mellitus
+5.12,192,175,94,Diabetes Mellitus
+4.9,236,192,138,Diabetes Mellitus
+5.68,209,218,150,Diabetes Mellitus
+5.24,224,219,107,Diabetes Mellitus
+5.98,192,201,124,Diabetes Mellitus
+5.18,203,206,123,Diabetes Mellitus
+5.58,245,172,148,Diabetes Mellitus
+5.02,198,172,114,Diabetes Mellitus
+6.25,231,178,104,Diabetes Mellitus
+5.91,194,180,148,Diabetes Mellitus
+5.28,227,177,148,Diabetes Mellitus
+6.03,207,175,126,Diabetes Mellitus
+5.17,217,174,102,Diabetes Mellitus
+6.25,229,214,121,Diabetes Mellitus
+5.68,247,172,145,Diabetes Mellitus
+5.93,229,196,102,Diabetes Mellitus
+5.25,195,193,108,Diabetes Mellitus
+6.28,248,217,130,Diabetes Mellitus
+5.37,234,194,142,Diabetes Mellitus
+5.96,252,196,127,Diabetes Mellitus
+5.12,194,212,134,Diabetes Mellitus
+6.28,220,192,131,Diabetes Mellitus
+5.02,242,199,128,Diabetes Mellitus
+5.07,191,183,102,Diabetes Mellitus
+5.66,228,171,121,Diabetes Mellitus
+4.94,216,218,130,Diabetes Mellitus
+5.87,249,193,134,Diabetes Mellitus
+6.13,219,176,99,Diabetes Mellitus
+5.53,252,197,149,Diabetes Mellitus
+5.11,226,198,111,Diabetes Mellitus
+6.39,253,186,101,Diabetes Mellitus
+4.91,199,170,111,Diabetes Mellitus
+5.86,239,183,136,Diabetes Mellitus
+6.45,225,204,141,Diabetes Mellitus
+6.09,196,198,100,Diabetes Mellitus
+6.2,221,220,100,Diabetes Mellitus
+5.96,215,203,135,Diabetes Mellitus
+5.6,193,186,124,Diabetes Mellitus
+5.57,228,184,144,Diabetes Mellitus
+6.2,221,171,136,Diabetes Mellitus
+5.96,211,180,116,Diabetes Mellitus
+6.28,245,197,118,Diabetes Mellitus
+6.4,248,189,95,Diabetes Mellitus
